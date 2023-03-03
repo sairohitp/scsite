@@ -1,0 +1,77 @@
+footer {
+    padding: 60px 0px;
+    background-color: var(--mildergrey);
+    margin: -66px 0px -192px 0px;
+}
+
+.sub-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px;
+}
+
+#footer-left-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 210px;
+}
+
+#gdsc-logo {
+    width: 350px;
+}
+
+#socials {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 40px;
+}
+
+.social-img {
+    height: 22px;
+}
+
+#footer-right-section {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 80px;
+
+    text-align: right;
+}
+
+#disclaimer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+#disclaimer-right-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 10px;
+}
+
+#triangle {
+    position: relative;
+    width: 120px;
+    left: calc(100% - 120px);
+}
+
+#shape-group {
+    position: relative;
+    width: 70px;
+    left: 0;
+}

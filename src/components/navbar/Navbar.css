@@ -1,0 +1,31 @@
+nav {
+    border-bottom: 1px solid var(--mildgrey);
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    background-color: var(--white);
+    z-index: 9;
+}
+
+.navcontainer {
+    padding: 10px 0px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#navlogo {
+    width: 225px;
+}
+
+.navlinks {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 40px;
+}

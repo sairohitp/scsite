@@ -1,4 +1,62 @@
-# Getting Started with Create React App
+## About
+
+The Solution Challenge is an annual contest presented by Google that invites students to develop solutions for local community problems using one or more Google products or platforms.
+
+We invite university students around the world to join the competition with Google Developer Student Clubs.
+
+## Prizes
+
+All participants receive a Google Developers digital profile badge and an official certificate.
+
+### Top 50 teams
+
+Receive customized mentorship from Googlers and experts to take solutions to the next level, a branded T-shirt, and a certificate.
+
+### Top 10 finalists
+
+Receive additional mentorship, a swag box, and the opportunity to showcase solutions to Googlers and developers all around the world at Demo Day live on YouTube.
+
+### Contest Finalists
+
+In addition to the swag box, each individual from the additional seven recognized teams will receive a Cash Prize of $1,000 per student. 
+
+### Top 3 winners
+
+In addition to the swag box, each individual from the top 3 winning teams will receive a Cash Prize of $3,000 and a feature on the Google Developers Blog.
+
+## What?
+
+The Google Developer Student Clubs 2022 Solution Challenge mission is to solve for one of the United Nations’ 17 Sustainable Development Goals using Google technology.
+
+Created by the United Nations in 2015 to be achieved by 2030, the 17 Sustainable Development Goals (SDGs) agreed upon by all 193 United Nations Member States aim to end poverty, ensure prosperity, and protect the planet.
+
+## Why?
+
+The mission of the competition is to enable hands-on learning and inspire student developers to come together as a global community, learn, and  build real solutions for real problems.
+
+## Benefits:
+
+- Team Matching
+- Free GCP Credits
+- Exclusive Workshops
+- Workshop recording vault
+- Officer hours with Technical Committee and/or Googlers 
+
+### When?
+
+- The Solution Challenge runs from January to March of each year.
+- Registrations Open: 12 January 2022
+- Deadline: 31 March 2022
+
+### Who?
+- 18+ years of age
+- Part of an active DSC
+- You can work with teammates from your DSC or even other DSCs. The submission form collects the team name and teammate emails
+- Teams are limited to a maximum of 4 members
+
+All registered participants will be invited to join an online platform called Parthean meant for discussing topics  specific to the solution challenge where members of our team (including Googlers and Google Developer Experts) will support with queries etc.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
