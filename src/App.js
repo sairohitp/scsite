@@ -1,5 +1,5 @@
 import React from 'react'
-import { Routes, Route } from 'react-router-dom'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
 
 import Home from './pages/home/Home'
 
@@ -7,16 +7,11 @@ const App = () => {
   return (
     <div>
 
-      <Routes>
-        <Route path = "/" element = {<Home />} />
-        {/* <Route path = "/" element = {<Home />} />
-        <Route path = "/" element = {<Home />} />
-        <Route path = "/" element = {<Home />} />
-        <Route path = "/" element = {<Home />} />
-        <Route path = "/" element = {<Home />} />
-        
-        <Route path = "*" element = {<Home />} /> */}
-      </Routes>
+      <BrowserRouter basename = "/scsite">
+        <Routes>
+          <Route exact path = "/scsite" element = {<Home />} />
+        </Routes>
+      </BrowserRouter>
 
     </div>
   )
