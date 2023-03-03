@@ -4,9 +4,17 @@ The Solution Challenge is an annual contest presented by Google that invites stu
 
 We invite university students around the world to join the competition with Google Developer Student Clubs.
 
-## Prizes
+### Prizes
 
 All participants receive a Google Developers digital profile badge and an official certificate.
+
+### Benefits:
+
+- Team Matching
+- Free GCP Credits
+- Exclusive Workshops
+- Workshop recording vault
+- Officer hours with Technical Committee and/or Googlers 
 
 ### Top 50 teams
 
@@ -24,23 +32,15 @@ In addition to the swag box, each individual from the additional seven recognize
 
 In addition to the swag box, each individual from the top 3 winning teams will receive a Cash Prize of $3,000 and a feature on the Google Developers Blog.
 
-## What?
+### What?
 
 The Google Developer Student Clubs 2022 Solution Challenge mission is to solve for one of the United Nations’ 17 Sustainable Development Goals using Google technology.
 
 Created by the United Nations in 2015 to be achieved by 2030, the 17 Sustainable Development Goals (SDGs) agreed upon by all 193 United Nations Member States aim to end poverty, ensure prosperity, and protect the planet.
 
-## Why?
+### Why?
 
 The mission of the competition is to enable hands-on learning and inspire student developers to come together as a global community, learn, and  build real solutions for real problems.
-
-## Benefits:
-
-- Team Matching
-- Free GCP Credits
-- Exclusive Workshops
-- Workshop recording vault
-- Officer hours with Technical Committee and/or Googlers 
 
 ### When?
 
