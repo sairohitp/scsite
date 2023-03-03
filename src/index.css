@@ -13,10 +13,13 @@
     --black: #000000;
     
     --grey: #676C72;
-    --mildgrey: #E0E0E0;
+    --mildgrey: #cecece;
     --mildergrey: #F5F5F5;
     
     --blue: #4285F4;
+    --red: #EA4335;
+    --green: #34A853;
+    --yellow: #FBBC04;
     
     --lightblue: #90CAF9;
     --lightred: #EF9A9A;
@@ -30,7 +33,7 @@ body {
 
 .subbody {
     margin: auto;
-    width: 1280px;
+    width: 1100px;
 }
 
 * {
@@ -41,27 +44,34 @@ body {
 
 h1 {
     font-family: "googlesans-med", sans-serif;
-    font-size: 28px;
+    font-size: 22px;
     margin: 0px;
     padding: 0px;
 }
 
 h2 {
     font-family: "googlesans-med", sans-serif;
-    font-size: 22px;
+    font-size: 18px;
     margin: 0px;
     padding: 0px;
 }
 
-h5, li {
-    font-size: 14px;
+h5 {
+    font-size: 12px;
+    color: var(--grey);
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    font-size: 12px;
     color: var(--black);
     margin: 0px;
     padding: 0px;
 }
 
 h6 {
-    font-size: 12px;
+    font-size: 10px;
     margin: 0px;
     padding: 0px;
 }
@@ -72,8 +82,8 @@ b {
 }
 
 p {
-    font-size: 16px;
-    color: var(--black);
+    font-size: 14px;
+    color: var(--grey);
     margin: 0px;
     padding: 0px;
 }
@@ -101,14 +111,19 @@ hr {
 }
 
 button {
+    font-size: 14px;
     background: var(--blue);
     
-    padding: 12px 15px;
+    padding: 10px 15px;
     
     border: none;
     border-radius: 5px;
 
     color: var(--white);
+}
+
+button:hover {
+    cursor: pointer;
 }
 
 #spacer {

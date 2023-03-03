@@ -14,7 +14,9 @@ const SDGSection = () => {
         <span id = "spacer"></span>
 
         <div id = "sdg-body">
-
+        <div>
+                <img src = {SDGs} alt = "SDGs" id = "sdg-img"></img>
+            </div>
             <div id = "sdg-text">
                 <div>
                     <p>
@@ -29,15 +31,13 @@ const SDGSection = () => {
                 <div>
                     <Link>
                         <button>
-                            <b>Learn More</b>
+                            Learn More
                         </button>
                     </Link>
                 </div>
             </div>
 
-            <div>
-                <img src = {SDGs} alt = "SDGs" id = "sdg-img"></img>
-            </div>
+            
 
         </div>
     

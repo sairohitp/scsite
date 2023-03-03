@@ -9,12 +9,11 @@ const VisionCard = (props) => {
             </div>
 
             <div className = "vision-card-textbox">
-                <div>
+                <div id = "vision-card-textbox-title">
                     <h2>
                         {props.title}
                     </h2>
                 </div>
-                <span id = "spacer"></span>
                 <div>
                     <h5>
                         {props.description}

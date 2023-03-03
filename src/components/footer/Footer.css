@@ -1,7 +1,7 @@
 footer {
-    padding: 60px 0px;
+    padding: 60px 0px 40px 0px;
     background-color: var(--mildergrey);
-    margin: -66px 0px -192px 0px;
+    margin: -66px 0px -165px 0px;
 }
 
 .sub-footer {
@@ -18,11 +18,11 @@ footer {
     justify-content: space-between;
     align-items: flex-start;
     padding: 0px;
-    gap: 210px;
+    gap: 160px;
 }
 
 #gdsc-logo {
-    width: 350px;
+    width: 300px;
 }
 
 #socials {
@@ -30,11 +30,11 @@ footer {
     flex-direction: row;
     align-items: center;
     padding: 0px;
-    gap: 40px;
+    gap: 30px;
 }
 
 .social-img {
-    height: 22px;
+    height: 20px;
 }
 
 #footer-right-section {
@@ -52,7 +52,7 @@ footer {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 0px;
+    padding: 15px 0px;
 }
 
 #disclaimer-right-container {
@@ -72,6 +72,6 @@ footer {
 
 #shape-group {
     position: relative;
-    width: 70px;
+    width: 60px;
     left: 0;
 }

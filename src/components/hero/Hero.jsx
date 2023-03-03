@@ -37,7 +37,7 @@ const Hero = () => {
             </div>
             
             <div>
-                <Link to = "/register"><button><b>Register Now</b></button></Link>
+                <Link to = "/register"><button>Register Now</button></Link>
             </div>
 
         </div>

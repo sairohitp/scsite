@@ -7,7 +7,7 @@ const FooterColumn = (props) => {
   return (
     <div className = "footer-links-column">
 
-        <h5><b>{props.columntitle}</b></h5>
+        <h5 style = {{color: "#000000"}}><b>{props.columntitle}</b></h5>
         <ul>
             <Link>
                 <li className = "footer-link">{props.link1}</li>
