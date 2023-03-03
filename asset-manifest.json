@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/scsite/static/css/main.554d5544.css",
+    "main.js": "/scsite/static/js/main.16ee89b1.js",
+    "static/media/hero-image.png": "/scsite/static/media/hero-image.7bc160f14f37abb91062.png",
+    "static/media/sdgs-expanded.png": "/scsite/static/media/sdgs-expanded.3c803ce6fac697e96cea.png",
+    "static/media/GoogleSans-Medium.ttf": "/scsite/static/media/GoogleSans-Medium.81067d78370e5509b889.ttf",
+    "static/media/GoogleSans-Regular.ttf": "/scsite/static/media/GoogleSans-Regular.19c78e33fc3a7243f219.ttf",
+    "static/media/logo.png": "/scsite/static/media/logo.e37c4920e6fd4e04a683.png",
+    "static/media/gdsc-logo.png": "/scsite/static/media/gdsc-logo.513462551558096d9dec.png",
+    "static/media/github.svg": "/scsite/static/media/github.c11023765f9fa361bd6cb6c67e442902.svg",
+    "static/media/group.svg": "/scsite/static/media/group.6988f2c8053fd54d1580ce095403fa17.svg",
+    "static/media/social-leaderboard.svg": "/scsite/static/media/social-leaderboard.8ad8700d814691a342b6fcc5dbbcaefb.svg",
+    "static/media/instagram.svg": "/scsite/static/media/instagram.16d145dbe07d5e0f7eca14ee060b4cd6.svg",
+    "static/media/twitter.svg": "/scsite/static/media/twitter.ff28a73b6d75a4c5ea4c7b73af0d1113.svg",
+    "static/media/workspace-premium.svg": "/scsite/static/media/workspace-premium.d283971c78ac25220379e6697ef26ace.svg",
+    "static/media/linkedin.svg": "/scsite/static/media/linkedin.c43745379d2c091b34fc82bfd4c2f48a.svg",
+    "static/media/facebook.svg": "/scsite/static/media/facebook.5d1cfb3f890d8e224e2b43d3a3a8e695.svg",
+    "index.html": "/scsite/index.html",
+    "main.554d5544.css.map": "/scsite/static/css/main.554d5544.css.map",
+    "main.16ee89b1.js.map": "/scsite/static/js/main.16ee89b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.554d5544.css",
+    "static/js/main.16ee89b1.js"
+  ]
+}
