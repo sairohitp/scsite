@@ -1,3 +1,4 @@
+- Factcheck and update README
 - Update links
 - Build remaining pages
 
