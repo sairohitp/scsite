@@ -1,4 +1,4 @@
-# MIT Open License Agreement
+# MIT License
 
 This Open License Agreement (the "Agreement") is entered into between the Licensor and the Licensee. By using or accessing the Licensed Material, the Licensee agrees to be bound by the terms of this Agreement.
 
